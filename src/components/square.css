@@ -1,0 +1,11 @@
+.sqr{
+    background-color: black;
+    width: 140px;
+    height: 140px;
+    border: 2px solid white;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 70px;
+}
